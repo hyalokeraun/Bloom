@@ -2,7 +2,7 @@
 
 A lightweight, zero-dependency HTTP/1.1 backend server written from scratch in C for Windows (Winsock2 + MSVC). 
 
-This is an educational weekend project built to explore low-level computer networking, TCP socket programming, HTTP/1.1 protocol parsing, thread synchronization, and systems programming fundamentals without relying on third-party frameworks or libraries.
+This is an educational project built by me over the weekend to explore low-level computer networking, TCP socket programming, HTTP/1.1 protocol parsing, thread synchronization, and systems programming fundamentals without relying on third-party frameworks or libraries.
 
 ---
 
