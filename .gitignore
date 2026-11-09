@@ -1,0 +1,56 @@
+# ==============================================================================
+# MSVC & C Build Outputs
+# ==============================================================================
+# Build output folder
+build/
+bin/
+out/
+
+# Executables and libraries
+*.exe
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+*.exp
+
+# Object and intermediate compilation files
+*.obj
+*.o
+
+# Debug and symbol files
+*.pdb
+*.ilk
+*.idb
+vc*.pdb
+
+# ==============================================================================
+# Runtime Generated Files & Logs
+# ==============================================================================
+*.log
+server.log
+server_stdout.txt
+server_stderr.txt
+
+# ==============================================================================
+# Visual Studio & IDE Artifacts
+# ==============================================================================
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+Debug/
+Release/
+x64/
+x86/
+
+# ==============================================================================
+# OS Generated Files
+# ==============================================================================
+Thumbs.db
+Desktop.ini
+.DS_Store
+
